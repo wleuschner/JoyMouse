@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Assets/Gamepad.jpg</file>
+        <file>Assets/Gamepad_configure.jpg</file>
+    </qresource>
+</RCC>
